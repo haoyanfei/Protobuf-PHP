@@ -1,15 +1,15 @@
 {
-    "name": "DrSlump/Protobuf-PHP",
+    "name": "haoyanfei/protobuf-php",
     "description": "PHP implementation of Google's Protocol Buffers",
     "keywords": ["protobuf", "protocol buffer", "serializing"],
-    "homepage": "https://github.com/drslump/Protobuf-PHP",
+    "homepage": "https://github.com/haoyanfei/Protobuf-PHP.git",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Iván -DrSlump- Montes",
-            "email": "drslump@pollinimini.net",
-            "homepage": "https://github.com/drslump/Protobuf-PHP"
+            "name": "haoyanfei(copy)",
+            "email": "haoyanfei@outlook.com",
+            "homepage": "https://github.com/haoyanfei/Protobuf-PHP.git"
         }
     ],
     "bin": ["protoc-gen-php.bat", "protoc-gen-php.php"],
